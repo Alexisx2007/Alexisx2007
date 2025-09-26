@@ -1,4 +1,3 @@
-## Hi there 👋
 # Alexis Gandia Micó
 
 ---
