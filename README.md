@@ -12,7 +12,7 @@
 ---
 
 ## Imagen
-![Imagen representativa](https://avatars.githubusercontent.com/u/233294042?v=4)
+![Imagen representativa](https://yt3.googleusercontent.com/TopNdqZfKunjx9GSrWH8Z1QqHuToKyEGYZRXdLnf_3ve-1B4M_228FDiTVLOeoniPO2sWlYKkA=s160-c-k-c0x00ffffff-no-rj)
 
 
 ---
